@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Anant developer anant2kumarjain@gmail.com
 
 # THANKS
 
