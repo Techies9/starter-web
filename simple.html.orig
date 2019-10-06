@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<!-- copyright 2019 Git Training-->
 <head>
-	<title>My Simple Title</title>
+<<<<<<< HEAD
+	<title>My Simple1 Title</title>
+=======
+	<title>My Simple45 Title</title>
+>>>>>>> abcd
 
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
-			padding-top: 90px;
-			padding-bottom: 30px;
+			padding-top: 50px;
+			padding-bottom: 20px;
 		}
 	</style>
 	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
@@ -21,7 +24,7 @@
 	</main>
 	<footer class="container">
 
-		<p>&copy; Company 2019</p>
+		<p>&copy; Company 2018</p>
 
 	</footer>
 </body>
