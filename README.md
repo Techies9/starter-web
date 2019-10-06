@@ -12,4 +12,4 @@ This is example to show different parts of the Git respository and arious comman
 ## Deployment
 This is a simple web project, deployment can be on any web server or local file system
 
-cpyright 2019 
+copyright 2019 Git Training
